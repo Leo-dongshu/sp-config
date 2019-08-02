@@ -10,7 +10,8 @@ eureka:
     service-url:
       defaultZone: http://eureka1:2001/eureka, http://eureka2:2002/eureka
 
-#路径和服务名称相同，默认可不写
+#璺緞鍜屾湇鍔″悕绉扮浉鍚岋紝榛樿鍙笉鍐�
+
 #zuul:
 #  routes:
 #    item-service: /item-service/**
